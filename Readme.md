@@ -1,10 +1,12 @@
-# :pencil2: Leetcode Solutions with java & js
-Update time:  2016-11-20 19:00:56
+# :pencil2: Leetcode Solutions with Java & JS
+Update time:  2016-11-20 19:18:42
 
-使用了[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具:  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
-I have solved **88   /   429** problems
-while there are **78** problems still locked.
+代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
+I have solved **88   /   428** problems
+while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
 
@@ -442,4 +444,3 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|||Medium|
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|||Easy|
 |464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
-|465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
