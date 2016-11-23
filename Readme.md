@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-21 22:01:40
+Update time:  2016-11-23 10:09:29
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **101   /   429** problems
+I have solved **112   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -118,21 +118,21 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[java](https://github.com/ma63d/leetcode/blob/master/100-same-tree/same-tree.java)||Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[java](https://github.com/ma63d/leetcode/blob/master/101-symmetric-tree/symmetric-tree.java)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Easy|
-|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
+|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[java](https://github.com/ma63d/leetcode/blob/master/103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.java)||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|||Easy|
-|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|||Medium|
-|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|||Medium|
+|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[java](https://github.com/ma63d/leetcode/blob/master/105-construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.java)||Medium|
+|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[java](https://github.com/ma63d/leetcode/blob/master/106-construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.java)||Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
-|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|||Medium|
-|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
+|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[java](https://github.com/ma63d/leetcode/blob/master/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java)||Medium|
+|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[java](https://github.com/ma63d/leetcode/blob/master/109-convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.java)||Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|||Easy|
-|112|[path-sum](https://leetcode.com/problems/path-sum)|||Easy|
-|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
-|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
-|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
-|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Hard|
+|112|[path-sum](https://leetcode.com/problems/path-sum)|[java](https://github.com/ma63d/leetcode/blob/master/112-path-sum/path-sum.java)||Easy|
+|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[java](https://github.com/ma63d/leetcode/blob/master/113-path-sum-ii/path-sum-ii.java)||Medium|
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[java](https://github.com/ma63d/leetcode/blob/master/114-flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.java)||Medium|
+|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|[java](https://github.com/ma63d/leetcode/blob/master/115-distinct-subsequences/distinct-subsequences.java)||Hard|
+|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[java](https://github.com/ma63d/leetcode/blob/master/116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.java)||Medium|
+|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[java](https://github.com/ma63d/leetcode/blob/master/117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.java)||Hard|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|||Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
