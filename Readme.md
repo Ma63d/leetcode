@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-23 10:09:29
+Update time:  2016-11-23 23:14:14
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **112   /   429** problems
+I have solved **121   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -133,15 +133,15 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|[java](https://github.com/ma63d/leetcode/blob/master/115-distinct-subsequences/distinct-subsequences.java)||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[java](https://github.com/ma63d/leetcode/blob/master/116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.java)||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[java](https://github.com/ma63d/leetcode/blob/master/117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.java)||Hard|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|||Easy|
-|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
-|120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
-|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii/)|Medium|
-|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
-|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||Hard|
-|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
-|126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[java](https://github.com/ma63d/leetcode/blob/master/118-pascals-triangle/pascals-triangle.java)||Easy|
+|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[java](https://github.com/ma63d/leetcode/blob/master/119-pascals-triangle-ii/pascals-triangle-ii.java)||Easy|
+|120|[triangle](https://leetcode.com/problems/triangle)|[java](https://github.com/ma63d/leetcode/blob/master/120-triangle/triangle.java)||Medium|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[java](https://github.com/ma63d/leetcode/blob/master/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
+|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[java](https://github.com/ma63d/leetcode/blob/master/122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii/)|Medium|
+|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[java](https://github.com/ma63d/leetcode/blob/master/123-best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.java)||Hard|
+|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[java](https://github.com/ma63d/leetcode/blob/master/124-binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.java)||Hard|
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[java](https://github.com/ma63d/leetcode/blob/master/125-valid-palindrome/valid-palindrome.java)||Easy|
+|126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|[java](https://github.com/ma63d/leetcode/blob/master/126-word-ladder-ii/word-ladder-ii.java)||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|||Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|||Hard|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|||Medium|
