@@ -35,7 +35,12 @@
 
 
 public class Solution {
-
+    //这道题真心有难度
+    //中间不是TLE就是MLE
+    //虽然就是一个BFS 
+    //但是其中搜索当前能够到达的点的集合的过程还是不容易想到
+    //其次 为了避免LTE 而没有直接存储路径
+    //值得二刷
     ArrayList<List<String>> result = new ArrayList<List<String>>();
     public List<List<String>> findLadders(String beginWord, String endWord, Set<String> wordList) {
         result = new ArrayList<List<String>>();
@@ -58,7 +63,7 @@ public class Solution {
                 StringBuilder curr = new StringBuilder(cur);
                 for(int i = 0;i < cur.length();i++){
                     char c = curr.charAt(i);
-                    for(int j = 0; j < 25;j++){
+                    for(int j = 0; j < 26;j++){
                         curr.setCharAt(i,(char)('a'+j)); 
                         if(wordList.contains(curr.toString())){
                             newAlready.add(curr.toString());

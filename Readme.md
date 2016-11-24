@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-23 23:14:14
+Update time:  2016-11-24 23:57:30
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **121   /   429** problems
+I have solved **124   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -142,9 +142,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[java](https://github.com/ma63d/leetcode/blob/master/124-binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.java)||Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[java](https://github.com/ma63d/leetcode/blob/master/125-valid-palindrome/valid-palindrome.java)||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|[java](https://github.com/ma63d/leetcode/blob/master/126-word-ladder-ii/word-ladder-ii.java)||Hard|
-|127|[word-ladder](https://leetcode.com/problems/word-ladder)|||Medium|
-|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|||Hard|
-|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|||Medium|
+|127|[word-ladder](https://leetcode.com/problems/word-ladder)|[java](https://github.com/ma63d/leetcode/blob/master/127-word-ladder/word-ladder.java)||Medium|
+|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[java](https://github.com/ma63d/leetcode/blob/master/128-longest-consecutive-sequence/longest-consecutive-sequence.java)||Hard|
+|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[java](https://github.com/ma63d/leetcode/blob/master/129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.java)||Medium|
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|||Medium|
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|||Medium|
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|||Hard|
