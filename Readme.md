@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-24 23:57:30
+Update time:  2016-11-25 23:34:13
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **124   /   429** problems
+I have solved **129   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -145,11 +145,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|[java](https://github.com/ma63d/leetcode/blob/master/127-word-ladder/word-ladder.java)||Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[java](https://github.com/ma63d/leetcode/blob/master/128-longest-consecutive-sequence/longest-consecutive-sequence.java)||Hard|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[java](https://github.com/ma63d/leetcode/blob/master/129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.java)||Medium|
-|130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|||Medium|
-|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|||Medium|
-|132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|||Hard|
-|133|[clone-graph](https://leetcode.com/problems/clone-graph)|||Medium|
-|134|[gas-station](https://leetcode.com/problems/gas-station)|||Medium|
+|130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|[java](https://github.com/ma63d/leetcode/blob/master/130-surrounded-regions/surrounded-regions.java)||Medium|
+|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|[java](https://github.com/ma63d/leetcode/blob/master/131-palindrome-partitioning/palindrome-partitioning.java)||Medium|
+|132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|[java](https://github.com/ma63d/leetcode/blob/master/132-palindrome-partitioning-ii/palindrome-partitioning-ii.java)||Hard|
+|133|[clone-graph](https://leetcode.com/problems/clone-graph)|[java](https://github.com/ma63d/leetcode/blob/master/133-clone-graph/clone-graph.java)||Medium|
+|134|[gas-station](https://leetcode.com/problems/gas-station)|[java](https://github.com/ma63d/leetcode/blob/master/134-gas-station/gas-station.java)||Medium|
 |135|[candy](https://leetcode.com/problems/candy)|||Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|||Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
