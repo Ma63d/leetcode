@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-25 23:34:13
+Update time:  2016-11-29 10:00:53
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **129   /   429** problems
+I have solved **133   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -150,9 +150,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|[java](https://github.com/ma63d/leetcode/blob/master/132-palindrome-partitioning-ii/palindrome-partitioning-ii.java)||Hard|
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)|[java](https://github.com/ma63d/leetcode/blob/master/133-clone-graph/clone-graph.java)||Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)|[java](https://github.com/ma63d/leetcode/blob/master/134-gas-station/gas-station.java)||Medium|
-|135|[candy](https://leetcode.com/problems/candy)|||Hard|
-|136|[single-number](https://leetcode.com/problems/single-number)|||Easy|
-|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
+|135|[candy](https://leetcode.com/problems/candy)|[java](https://github.com/ma63d/leetcode/blob/master/135-candy/candy.java)||Hard|
+|136|[single-number](https://leetcode.com/problems/single-number)|[java](https://github.com/ma63d/leetcode/blob/master/136-single-number/single-number.java)||Easy|
+|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|[java](https://github.com/ma63d/leetcode/blob/master/137-single-number-ii/single-number-ii.java)||Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|||Hard|
 |139|[word-break](https://leetcode.com/problems/word-break)|||Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)|||Hard|
@@ -259,7 +259,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths)|||Easy|
 |258|[add-digits](https://leetcode.com/problems/add-digits)|||Easy|
 |259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
-|260|[single-number-iii](https://leetcode.com/problems/single-number-iii)|||Medium|
+|260|[single-number-iii](https://leetcode.com/problems/single-number-iii)|[java](https://github.com/ma63d/leetcode/blob/master/260-single-number-iii/single-number-iii.java)||Medium|
 |261|[graph-valid-tree](https://leetcode.com/problems/graph-valid-tree)|:lock:||Medium|
 |263|[ugly-number](https://leetcode.com/problems/ugly-number)|||Easy|
 |264|[ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)|||Medium|
