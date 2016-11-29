@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-29 10:00:53
+Update time:  2016-11-29 21:41:52
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **133   /   429** problems
+I have solved **144   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -153,17 +153,17 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |135|[candy](https://leetcode.com/problems/candy)|[java](https://github.com/ma63d/leetcode/blob/master/135-candy/candy.java)||Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[java](https://github.com/ma63d/leetcode/blob/master/136-single-number/single-number.java)||Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|[java](https://github.com/ma63d/leetcode/blob/master/137-single-number-ii/single-number-ii.java)||Medium|
-|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|||Hard|
-|139|[word-break](https://leetcode.com/problems/word-break)|||Medium|
-|140|[word-break-ii](https://leetcode.com/problems/word-break-ii)|||Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
-|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|||Medium|
-|143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|||Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|||Hard|
-|146|[lru-cache](https://leetcode.com/problems/lru-cache)|||Hard|
-|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
-|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
+|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[java](https://github.com/ma63d/leetcode/blob/master/138-copy-list-with-random-pointer/copy-list-with-random-pointer.java)||Hard|
+|139|[word-break](https://leetcode.com/problems/word-break)|[java](https://github.com/ma63d/leetcode/blob/master/139-word-break/word-break.java)||Medium|
+|140|[word-break-ii](https://leetcode.com/problems/word-break-ii)|[java](https://github.com/ma63d/leetcode/blob/master/140-word-break-ii/word-break-ii.java)||Hard|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[java](https://github.com/ma63d/leetcode/blob/master/141-linked-list-cycle/linked-list-cycle.java)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[java](https://github.com/ma63d/leetcode/blob/master/142-linked-list-cycle-ii/linked-list-cycle-ii.java)||Medium|
+|143|[reorder-list](https://leetcode.com/problems/reorder-list)|[java](https://github.com/ma63d/leetcode/blob/master/143-reorder-list/reorder-list.java)||Medium|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[java](https://github.com/ma63d/leetcode/blob/master/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)||Medium|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[java](https://github.com/ma63d/leetcode/blob/master/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java)||Hard|
+|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[java](https://github.com/ma63d/leetcode/blob/master/146-lru-cache/lru-cache.java)||Hard|
+|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[java](https://github.com/ma63d/leetcode/blob/master/147-insertion-sort-list/insertion-sort-list.java)||Medium|
+|148|[sort-list](https://leetcode.com/problems/sort-list)|[java](https://github.com/ma63d/leetcode/blob/master/148-sort-list/sort-list.java)||Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|||Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
