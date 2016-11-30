@@ -1,11 +1,11 @@
 # :pencil2: Leetcode Solutions with Java & JS
-Update time:  2016-11-29 21:41:52
+Update time:  2016-11-30 17:32:11
 
 主要是用Java在刷,遇到一些可以用正则写的就用js了,练练手 
 
 代码自动爬取和生成是基于[bonfy](https://github.com/bonfy)的leetcode solution自动生成工具(小改动了一下 原先只支持爬取一种语言):  [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **144   /   429** problems
+I have solved **152   /   429** problems
 while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/ma63d/leetcode/issues).
@@ -164,18 +164,18 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)|[java](https://github.com/ma63d/leetcode/blob/master/146-lru-cache/lru-cache.java)||Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[java](https://github.com/ma63d/leetcode/blob/master/147-insertion-sort-list/insertion-sort-list.java)||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|[java](https://github.com/ma63d/leetcode/blob/master/148-sort-list/sort-list.java)||Medium|
-|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|||Hard|
-|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
-|151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
-|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|||Medium|
-|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|||Medium|
-|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
-|155|[min-stack](https://leetcode.com/problems/min-stack)|||Easy|
+|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|[java](https://github.com/ma63d/leetcode/blob/master/149-max-points-on-a-line/max-points-on-a-line.java)||Hard|
+|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[java](https://github.com/ma63d/leetcode/blob/master/150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.java)||Medium|
+|151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|[java](https://github.com/ma63d/leetcode/blob/master/151-reverse-words-in-a-string/reverse-words-in-a-string.java)||Medium|
+|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[java](https://github.com/ma63d/leetcode/blob/master/152-maximum-product-subarray/maximum-product-subarray.java)||Medium|
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[java](https://github.com/ma63d/leetcode/blob/master/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java)||Medium|
+|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[java](https://github.com/ma63d/leetcode/blob/master/154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.java)||Hard|
+|155|[min-stack](https://leetcode.com/problems/min-stack)|[java](https://github.com/ma63d/leetcode/blob/master/155-min-stack/min-stack.java)||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
 |157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:||Easy|
 |158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)|:lock:||Hard|
 |159|[longest-substring-with-at-most-two-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|:lock:||Hard|
-|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-two-linked-lists/)|Easy|
+|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[java](https://github.com/ma63d/leetcode/blob/master/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)|[:memo:](https://leetcode.com/articles/intersection-two-linked-lists/)|Easy|
 |161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:||Medium|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element)|||Medium|
 |163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:||Medium|
