@@ -1,2 +1,5 @@
-config.cfg
-leetcode_generate.py
+config.json
+result.json
+.DS_Store
+.idea/
+node_modules/
