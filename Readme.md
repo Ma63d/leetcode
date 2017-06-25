@@ -1,4 +1,4 @@
-#leetcode solutions using java,javascript
+# leetcode solutions using java,javascript
 This is my leetcode solution folder.
 
 Language: java,javascript
