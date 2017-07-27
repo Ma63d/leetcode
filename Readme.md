@@ -1,4 +1,4 @@
-<p align="center"><img width="200"src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
+<p align="center"><img width="300"src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/Solved/Total(Locked)-157/573(107)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-36-blue.svg?style=flat-square" alt="">
@@ -18,7 +18,7 @@
 
 | # | Problems | Solutions | Difficulty |
 |:--:|:-----:|:---------:|:----:|
-|001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java) [javascript](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.js)||
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [javascript](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.js) [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java)||
 |010|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)| [java](.&#x2F;solutions&#x2F;010.regular-expression-matching&#x2F;regular-expression-matching.java)||
 |100|[same-tree](https://leetcode.com/problems/same-tree/)| [java](.&#x2F;solutions&#x2F;100.same-tree&#x2F;same-tree.java)||
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](.&#x2F;solutions&#x2F;101.symmetric-tree&#x2F;symmetric-tree.java)||
@@ -96,7 +96,7 @@
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.java)||
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.java)||
 |029|[divide-two-integers](https://leetcode.com/problems/divide-two-integers/)| [java](.&#x2F;solutions&#x2F;029.divide-two-integers&#x2F;divide-two-integers.java)||
-|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.java) [javascript](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.js)||
+|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.js) [java](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.java)||
 |030|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](.&#x2F;solutions&#x2F;030.substring-with-concatenation-of-all-words&#x2F;substring-with-concatenation-of-all-words.java)||
 |031|[next-permutation](https://leetcode.com/problems/next-permutation/)| [java](.&#x2F;solutions&#x2F;031.next-permutation&#x2F;next-permutation.java)||
 |032|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [java](.&#x2F;solutions&#x2F;032.longest-valid-parentheses&#x2F;longest-valid-parentheses.java)||
